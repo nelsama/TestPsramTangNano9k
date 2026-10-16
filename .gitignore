@@ -1,0 +1,9 @@
+# Gowin build artifacts
+/impl/
+
+# Gowin user-specific project settings
+*.gprj.user
+
+# Misc
+.DS_Store
+Thumbs.db
